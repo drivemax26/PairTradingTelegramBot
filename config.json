@@ -1,6 +1,6 @@
 {
-  "api_key": "YdC2X4N0FOXC6UqGp2QMwUCddbz5HWEwHhksFBdTARGkPQRHyaYZK1dVAOmpwjIx",
-  "api_secret": "ybkq2VycHnw5iEPkcFeQDNY9o1QwbsTC0GThBGRxZQboC7uvjMO9XdPOJDkhiG5E",
+  "api_key": "",
+  "api_secret": "",
   "symbol1": "ZILUSDT",
   "symbol2": "ZRXUSDT",
   "candle_interval": "1h",
@@ -9,6 +9,6 @@
   "second_sigma": 2,
   "third_sigma": 3,
   "order_amount": 10,
-  "telegram_bot_token": "7224986809:AAE0y2v-sCD0Du1MfhAQSP_ZydrZSG9ZKEM",
-  "telegram_chat_id": "423474661"
+  "telegram_bot_token": "",
+  "telegram_chat_id": ""
 }
