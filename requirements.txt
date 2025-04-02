@@ -1,0 +1,4 @@
+aiohttp>=3.7.0
+pandas>=1.0.0
+python-binance>=1.0.15
+aiogram>=3.0.0
